@@ -78,8 +78,8 @@ This project aims to address the challenge of high-dimensional IoT traffic in in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/IoT-IDS-RFECV.git
-   cd IoT-IDS-RFECV
+   git clone https://github.com/C0deRhin0/HybridRF-IoT-IDS.git
+   cd HybridRF-IoT-IDS
    ```
 
 2. Install dependencies:
